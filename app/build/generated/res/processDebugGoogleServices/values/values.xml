@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">141379924060</string>
+    <string name="google_api_key" translatable="false">AIzaSyBIkhPSOaUPrOQzr6uLWPS8mmQ89pB5OTM</string>
+    <string name="google_app_id" translatable="false">1:141379924060:android:86914c3363a98f82cd3699</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBIkhPSOaUPrOQzr6uLWPS8mmQ89pB5OTM</string>
+    <string name="google_storage_bucket" translatable="false">contractsflow-8945b.firebasestorage.app</string>
+    <string name="project_id" translatable="false">contractsflow-8945b</string>
+</resources>

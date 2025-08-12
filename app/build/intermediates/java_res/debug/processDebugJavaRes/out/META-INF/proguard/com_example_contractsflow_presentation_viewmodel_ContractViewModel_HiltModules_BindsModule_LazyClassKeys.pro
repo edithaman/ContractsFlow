@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.example.contractsflow.presentation.viewmodel.ContractViewModel
